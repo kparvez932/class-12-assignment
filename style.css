@@ -1,0 +1,18 @@
+#results, #bdt, .equal{
+    display: inline-block;
+}
+#currency{
+    margin: 20px 20px;
+}
+.to{
+    display: inline-block;
+    margin-right: 15px;
+    font-weight: bold;
+}
+.curryncy_width{
+    width: 40%;
+}
+
+.marrige{
+    width: 38%;
+}
